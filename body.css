@@ -1,0 +1,606 @@
+.main-img-box{
+position: relative;
+}
+.bg-main-img{
+    padding: 0%;
+}
+.img-text{
+            position: absolute;
+            color: #3A3C41;
+            left:15%;
+            top:22%;
+}
+.imgh2{
+            font-size: 48px;
+            font-weight: 700;
+        }
+.img-text p{
+            margin-top:30px ;
+            margin-bottom: 45px;
+            font-family: Raleway;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 23px;
+            letter-spacing: -0.005em;
+            text-align: left;
+
+}
+.text-linka{
+            font-family: Raleway;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 18px;
+            letter-spacing: 0.075em;
+            text-align: left;
+            background-color: #F15B5A;
+            padding: 20px 25px;
+}
+.text-row{
+            padding: 87px 14% 97px 13%;
+}
+.text-row h1{
+            font-size: 30px;
+            font-family: Raleway;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 35px;
+            letter-spacing: 0em;
+            text-align: left;
+            padding-bottom: 15px;
+}
+.text-row h3{
+  
+            font-family: Raleway;
+            font-size: 22px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 36px;
+            letter-spacing: 0.015em;
+            text-align: left;
+
+}
+.text-row p{
+            font-family: Raleway;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 26px;
+            letter-spacing: 0em;
+            text-align: left;
+            color:#7B7D85 ;
+}
+.text-row .h3{
+            padding-top: 62px;
+}
+.text-row span{
+            font-family: Raleway;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 35px;
+            letter-spacing: 0em;
+            text-align: left;
+    }
+    .text-row .a{
+            font-family: Raleway;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 19px;
+            letter-spacing: 0.06em;
+            text-align: left;
+            padding: 15px 30px 18px 29px;
+            background: #F15B5A;
+            color: white;
+    }
+
+   .top-card-text {
+            text-align: center;
+            margin: 0 auto;
+            background-color: #F0F5F7;
+   }
+   .top-card-text h1{
+            font-family: Raleway;
+            font-size: 30px;
+            font-weight: 600;
+            line-height: 35px;
+            letter-spacing: 0.005em;
+            padding: 81px 0px 12px 0px;
+   }
+   .top-card-text h1 span{
+            font-family: Raleway;
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 35px;
+            letter-spacing: 0.005em;
+   }
+   .top-card-text p{
+            font-family: Raleway;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            letter-spacing: -0.005em; 
+            padding-bottom: 54px;
+        
+    
+}
+   /* card start */
+    .card{
+            background-color: #F0F5F7; 
+            padding: 0 13%;
+            padding-bottom: 95px;
+    }
+   
+    .card .aaa{
+            background-color:#F0F5F7;  ;
+            padding:0%;
+    }
+    .card h2{
+            font-family: Raleway;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 21px;
+            letter-spacing: -0.005em;
+            text-align: center;
+            padding: 18px 0px;
+            background-color: white;
+
+    }
+ .card .hrimgdiv{
+            position: relative;
+            text-align: center;
+            margin: 0 auto;
+    }
+    .card hr{
+            margin: 0 22px;
+            color: #E0E2E7;
+        }
+    .imgh{
+            position: absolute;
+            text-align: center;
+            bottom: -6px;
+            padding: 6px;
+            background-color: #DFE1E6;
+        }
+    .card p{
+            padding: 24px 15px 34px 15px;
+            background-color: white;
+            line-height: 26px;
+            text-align: center;
+    }
+
+
+    .card-img-1{
+            background-image: url('img/p6.png');
+            min-height: 200px;
+            background-size: cover;
+        }
+      
+    .card-img-2{
+            background-image: url('img/p7.png');
+            min-height: 200px;
+            background-size: cover;
+      }
+      
+    .card-img-3{
+            background-image: url('img/p8.png');
+            min-height: 200px;
+            background-size: cover;
+        }
+      
+    .card-img-4{
+            background-image: url('img/p9.png');
+            min-height: 200px;
+            background-size: cover;
+      }
+      
+      .card a{
+            background-color:#67C9E0;
+            margin: 0 auto;
+            padding: 10px 30px;
+            font-family: Raleway;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 16px;
+            letter-spacing: 0.07em;
+            color: #fff;
+}
+    /* card end*/
+
+
+
+
+
+    .top-card2-text2 {
+            text-align: center;
+            margin: 0 auto;
+            background-color: #Fff;
+        }
+        .top-card2-text2 h1{
+            font-family: Raleway;
+            font-size: 30px;
+            font-weight: 600;
+            line-height: 35px;
+            letter-spacing: 0.005em;
+            padding: 81px 0px 12px 0px;
+        }
+        .top-card2-text2 h1 span{
+            font-family: Raleway;
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 35px;
+            letter-spacing: 0.005em;
+        }
+        .top-card2-text2 p{
+            font-family: Raleway;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            letter-spacing: -0.005em; 
+            padding-bottom: 54px;
+            
+         
+     }
+    /* video card start */
+    .card2{
+            background-color: #fff; 
+            padding: 0 13%;
+            padding-bottom: 95px;
+    }
+   
+    .card2 h2{
+            font-family: Raleway;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 21px;
+            letter-spacing: -0.005em;
+            text-align: center;
+            padding: 18px 0px;
+            background-color: #F0F5F7;
+
+    }
+ .card2 .hrimgdiv{
+            position: relative;
+            text-align: center;
+            margin: 0 auto;
+    }
+    .card2 hr{
+            margin: 0 22px;
+            color: #E0E2E7;
+        }
+    .imgh{
+            position: absolute;
+            text-align: center;
+            bottom: -6px;
+            padding: 6px;
+            background-color: #DFE1E6;
+    }
+    .card2 p{
+            padding: 24px 15px 34px 15px;
+            background-color: #F0F5F7;
+            line-height: 26px;
+            text-align: center;
+    }
+
+
+    .card2-img-1{
+            background-image: url('img/s3.png');
+            min-height: 200px;
+            background-size: cover;
+      }
+      
+    .card2-img-2{
+            background-image: url('img/s4.png');
+            min-height: 200px;
+            background-size: cover;
+      }
+      
+    .card2-img-3{
+       /*  background-image: url('img/s4.png'); */
+            min-height: 200px;
+            background-size: cover;
+      }
+      
+      .card2 a{
+            background-color:#67C9E0;
+            margin: 0 auto;
+            padding: 10px 30px;
+            font-family: Raleway;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 16px;
+            letter-spacing: 0.07em;
+            color: #fff;
+}
+
+
+    /* video card end */
+
+    /* text card start */
+    .top-card3-text3 {
+            text-align: center;
+            margin: 0 auto;
+            background-color: #F0F5F7;
+        }
+        .top-card3-text3 h1{
+            font-family: Raleway;
+            font-size: 30px;
+            font-weight: 600;
+            line-height: 35px;
+            letter-spacing: 0.005em;
+            padding: 81px 0px 12px 0px;
+        }
+        .top-card3-text3 h1 span{
+            font-family: Raleway;
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 35px;
+            letter-spacing: 0.005em;
+        }
+        .top-card3-text3 p{
+            font-family: Raleway;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            letter-spacing: -0.005em; 
+            padding-bottom: 54px;
+     }
+
+    .card3{
+            background-color: #F0F5F7; 
+            padding: 0 20%;
+            padding-bottom: 95px;
+    }
+  
+    .card3 h2{
+            font-family: Raleway;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 21px;
+            letter-spacing: -0.005em;
+            text-align: center;
+            padding: 18px 0px;
+            background-color: #F0F5F7;
+
+    }
+ .card3 .hrimgdiv{
+            position: relative;
+            text-align: center;
+            margin: 0 auto;
+    }
+    .card3 hr{
+            margin: 0 22px;
+            color: #E0E2E7;
+    }
+    .imgh{
+            position: absolute;
+            text-align: center;
+            bottom: -6px;
+            padding: 6px;
+            background-color: #DFE1E6;
+    }
+    .card3 p{
+            padding: 24px 15px 34px 15px;
+            background-color: #F0F5F7;
+            line-height: 26px;
+            text-align: center;
+    }
+
+
+    .card3-img-1{
+            background-image: url('img/s3.png');
+            min-height: 200px;
+            background-size: cover;
+      }
+      
+    .card3-img-2{
+            background-image: url('img/s4.png');
+            min-height: 200px;
+            background-size: cover;
+      }
+      
+    .card3-img-3{
+       /*  background-image: url('img/s4.png'); */
+            min-height: 200px;
+            background-size: cover;
+      }
+      
+      .card3 a{
+            background-color:#67C9E0;
+            margin: 0 auto;
+            padding: 10px 30px;
+            font-family: Raleway;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 16px;
+            letter-spacing: 0.07em;
+            color: #fff;
+}
+
+.roundad-img{
+           text-align: center;
+}
+
+.roundad-img .arrow{
+            margin-bottom: 10%;
+}
+.text3ppp{
+            font-family: Noto Serif;
+            font-size: 20px;
+            font-style: italic;
+            font-weight: 400;
+            line-height: 27px;
+            letter-spacing: -0.007em;
+            text-align: center;
+            color: #6A7177;
+
+}
+.text3h2{
+           color:#3A3C41;
+}
+
+    /* text card end */
+
+    /* footer start */
+footer{
+            background-color: #3A3C41;
+            padding: 111px 13% 34px 13%;
+}
+footer h3{
+            font-family: Raleway;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 21px;
+            letter-spacing: 0.015em;
+            text-align: left;
+            padding-bottom: 33px;
+            color: #Fff;
+}
+footer p{
+            font-family: Raleway;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 16px;
+            letter-spacing: -0.01em;
+            text-align: left;
+            color: #9BA0AA;
+            line-height: 26px;
+            padding-right: 10%;
+}
+footer hr{
+    
+            height: 1px;
+            left: 7127px;
+            top: -453px;
+            border: 1px solid #4A4C52;
+            margin: 6px 0px 6px 0px;
+
+}
+footer input[type=submit]{
+            height: 48px;
+            width: 104px;
+            font-family: Raleway;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 19px;
+            letter-spacing: 0em;
+            background: #67C9E0;
+            color: #Fff;
+            margin: 10px 0px;
+            border:0px;
+}
+
+footer input[type=text]{
+            height: 47px;
+            width: 260px;
+            left: 7705px;
+            top: -440px;
+            border-radius: 0px;
+            background-color: #515359;
+            border:0px;
+            margin: 10px 0px;
+}
+
+footer label{
+            font-family: Raleway;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 19px;
+            letter-spacing: 0em;
+            text-align: left;
+            color: #9BA0AA;
+}
+footer .bottom-hr{
+           margin-top: 138px;
+    
+}
+footer .icon  {
+          text-align: right;
+   
+}
+footer .icon i{
+            padding: 10px;
+            color: #53565C;
+}
+
+
+/* midea Queris */
+
+
+@media(max-width:575px){
+    .img-text{
+        position: absolute;
+        color: #3A3C41;
+        left:5%;
+        top:2%;
+        }
+        .imgh2{
+            font-size: 14px;
+            font-weight: 500;
+        }
+        .img-text p{
+        margin-top:6px ;
+        margin-bottom:5px;
+        font-family: Raleway;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        letter-spacing: -0.005em;
+        text-align: left;
+        
+        }
+        .text-linka{
+            font-family: Raleway;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 400;
+        letter-spacing: 0.075em;
+        text-align: left;
+        background-color: #F15B5A;
+        padding: 5px 5px;
+        }
+
+
+
+        .text-row{
+            padding:1px;
+        }
+        .card{
+            padding: 1px;
+        }
+        .card2{
+            background-color: #fff; 
+            padding:1px;
+            padding-bottom: 95px;
+        }
+        .card3{
+            background-color: #F0F5F7; 
+            padding: 1px;
+            padding-bottom: 95px;
+        }
+        footer{
+            background-color: #3A3C41;
+            padding:1px;
+        }
+
+      
+}
+
+
+
+
+
+    /* footer end */
